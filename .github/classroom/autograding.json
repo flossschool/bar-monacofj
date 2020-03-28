@@ -2,8 +2,8 @@
   "tests": [
     {
       "name": "Test 1",
-      "setup": "",
-      "run": "make test",
+      "setup": "make",
+      "run": "./main",
       "input": "1",
       "output": "2",
       "comparison": "exact",
